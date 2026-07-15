@@ -1,4 +1,4 @@
-# mini-ml-project-lavi
+# mini-ml-project
 Logistic Regression implemented from scratch in Python (NumPy)
 Manual implementation of logistic regression
 
